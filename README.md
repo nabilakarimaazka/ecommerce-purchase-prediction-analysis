@@ -10,6 +10,6 @@ Welcome to the future of marketing optimization! Our mission is nothing short of
 
 ## Justification and Dataset Delight:
 
-Why trust us? Enter the "Online Shoppers Purchasing Intention Dataset" from the illustrious UCI Machine Learning Repository. This treasure trove of data is tailor-made for our mission. Picture this: insights into user behavior on an online shopping website, spanning the number of pages visited, visit duration, and the almighty traffic source type. It doesn't stop there—the dataset is crowned with a binary label, revealing the ultimate mystery: did the user make a purchase or not?
+Why trust us? Enter the ["Online Shoppers Purchasing Intention Dataset"](https://www.kaggle.com/datasets/henrysue/online-shoppers-intention) from the illustrious UCI Machine Learning Repository. This treasure trove of data is tailor-made for our mission. Picture this: insights into user behavior on an online shopping website, spanning the number of pages visited, visit duration, and the almighty traffic source type. It doesn't stop there—the dataset is crowned with a binary label, revealing the ultimate mystery: did the user make a purchase or not?
 
 This dataset is our secret weapon, unraveling the enigma of user decisions. By delving into its depths, our machine learning models embark on a journey to unearth the most potent marketing strategies, catapulting the likelihood of purchase into the stratosphere.
